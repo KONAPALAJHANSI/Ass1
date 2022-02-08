@@ -1,1 +1,8 @@
-a=float(input('enter a
+a=int(input("enter ur number"))
+b=int(input("enter ur 2nd number"))
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)

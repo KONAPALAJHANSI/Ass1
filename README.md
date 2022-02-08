@@ -1,1 +1,1 @@
-# Ass1
+a=float(input('enter a
